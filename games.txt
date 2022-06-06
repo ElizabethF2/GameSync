@@ -1,0 +1,91 @@
+name: Mercenaries 2
+save path: %USERPROFILE%\Documents\My Games\Mercenaries 2
+
+name: Tacopocalypse
+save path: %LOCALAPPDATA%\Tacopocalypse
+
+name: Omnibus
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\OmniBus
+save path: %PROGRAMFILES(X86)%\Steam\steamapps\common\OmniBus\Save
+
+name: Project64
+save path: %PROGRAMFILES(X86)%\Project64 2.3\Save
+
+name: Lego Worlds
+save path: %APPDATA%\Warner Bros. Interactive Entertainment\LEGOWorlds
+
+name: Distance
+save path: %USERPROFILE%\Documents\My Games\Distance
+
+name: Xenia
+save path: %USERPROFILE%\Documents\Xenia
+
+name: Dolphin
+save path: %USERPROFILE%\Documents\Dolphin Emulator
+
+name: Scoot
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\Scoot
+save path: %USERPROFILE%\AppData\LocalLow\Outright Games Ltd\Crayola Scoot
+
+name: Mafia II
+save path: %LOCALAPPDATA%\2K Games\Mafia II
+
+name: Infestation
+save path: %LOCALAPPDATA%\VirtualStore\Program Files (x86)\Infestation
+
+name: Megaton Rainfall
+save path: %USERPROFILE%\Documents\MegatonRainfall
+include: *.sav
+include: config*
+
+name: FreezeME
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\FreezeME
+save path: %USERPROFILE%\AppData\LocalLow\Rainy Night Creations\FreezeME
+
+name: Space Engineers
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\SpaceEngineers
+save path: %APPDATA%\SpaceEngineers
+
+name: Super Galaxy Squadron EX Turbo
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\Super Galaxy Squadron
+save path: %LOCALAPPDATA%\Super_Galaxy_Squadron_EX_Turbo
+
+name: Sunset Overdrive
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\SunsetOverdrive
+save path: %LOCALAPPDATA%\sunset\Saves
+exclude: Sunset_userprefs.save
+
+name: PCSX2
+game path: %USERPROFILE%\Games\PS2\Emulators\pcsx2-common
+save path: %USERPROFILE%\Games\PS2\Emulators\pcsx2-common
+include: *.pnach
+include: *.ps2
+include: *.p2s
+
+name: Ape Out
+game path: %ProgramW6432%\Epic Games\ApeOut
+save path: %USERPROFILE%\AppData\LocalLow\Gabe Cuzzillo\ApeOut
+include: *.json
+
+name: Just Cause 4
+game path: %ProgramW6432%\Epic Games\JustCause4
+save path: %USERPROFILE%\Documents\Epic Games\Square Enix\Just Cause 4
+
+name: RPCS3
+game path: %USERPROFILE%\Games\PS3\rpcs3
+save path: %USERPROFILE%\Games\PS3\rpcs3\dev_hdd0\home\00000001
+
+name: Fable 3
+game path: %PROGRAMFILES(X86)%\Fable III
+save path: %USERPROFILE%\Saved Games\Lionhead Studios\Fable 3
+
+name: Yuzu
+game path: %LOCALAPPDATA%\yuzu
+save path: %APPDATA%\yuzu\config
+save path: %APPDATA%\yuzu\keys
+save path: %APPDATA%\yuzu\nand\system
+save path: %APPDATA%\yuzu\nand\user\save
+
+name: Lego The Incredibles
+game path: %PROGRAMFILES(X86)%\Steam\steamapps\common\LEGO The Incredibles
+save path: %APPDATA%\Warner Bros. Interactive Entertainment\LEGO The Incredibles
